@@ -32,19 +32,19 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   var rand = tl[Math.floor(Math.random() * tl.length)]
 
     if ((event.body.toLowerCase() == "Koi hai kya") || (event.body.toLowerCase() == "KOI HAIN KYA") || (event.body.toLowerCase() == "koi Hai") || (event.body.toLowerCase() == "koi hai")) {
-     return api.sendMessage("𝐌𝐚𝐈 𝐇𝐮 𝐍𝐚 𝐁𝐨𝐓 𝐁𝐚𝐁𝐮 𝐀𝐩𝐏𝐤𝐀 🙋", threadID);
+     return api.sendMessage("𝐌𝐚𝐈 𝐇𝐮 𝐍𝐚 𝐁𝐨𝐓 𝐁𝐚𝐁𝐮 𝐀𝐚𝐩𝐊𝐚 🙋", threadID);
    };
 
     if ((event.body.toLowerCase() == "CALL TPKO") || (event.body.toLowerCase() == "call") || (event.body.toLowerCase() == "call aaja") || (event.body.toLowerCase() == "Call aao all")) {
-     return api.sendMessage("𝐌𝐚𝐈 𝐂𝐚𝐋𝐋 𝐊𝐚𝐈𝐬𝐄 𝐀𝐨𝐎 𝐌𝐚𝐈 𝐓𝐨 𝐁𝐨𝐓 𝐇𝐮 𝐍𝐚 😒👈", threadID);
+     return api.sendMessage("𝐌𝐚𝐈 𝐂𝐚𝐋𝐋 𝐊𝐚𝐈𝐬𝐄 𝐀𝐨 𝐌𝐚𝐈 𝐓𝐨 𝐁𝐨𝐓 𝐇𝐮 𝐍𝐚 😒👈", threadID);
    };
 
    if ((event.body.toLowerCase() == "kya ho reha") || (event.body.toLowerCase() == "KYA KAR REHA HO")) {
-    return api.sendMessage("𝐊𝐮𝐂𝐡 𝐍𝐚𝐇𝐢 𝐁𝐚𝐁𝐮 𝐀𝐚𝐏𝐬𝐄 𝐇𝐢 𝐓𝐨 𝐁𝐚𝐀𝐭 𝐊𝐚𝐑 𝐑𝐞𝐇𝐞 𝐇𝐚 🤨🧏", threadID);
+    return api.sendMessage("𝐊𝐮𝐜𝐇 𝐍𝐚𝐇𝐢 𝐁𝐚𝐁𝐮 𝐀𝐚𝐩𝐒𝐞 𝐇𝐢 𝐓𝐨 𝐁𝐚𝐚𝐓 𝐊𝐚𝐑 𝐑𝐞𝐇𝐞 𝐇𝐚 🤨🧏", threadID);
    };
 
     if ((event.body.toLowerCase() == "😴") || (event.body.toLowerCase() == "😴😴") || (event.body.toLowerCase() == "😴😴😴") || (event.body.toLowerCase() == "😴😴😴😴")) {
-     return api.sendMessage("𝐊𝐨𝐈 𝐋𝐚𝐀𝐭 𝐌𝐚𝐀𝐫 𝐊𝐚𝐑 𝐉𝐚𝐆𝐚𝐎 𝐆𝐫𝐎𝐮𝐏 𝐌𝐚𝐈 𝐇𝐢 𝐒𝐨 𝐆𝐚𝐘𝐚 🤨", threadID);
+     return api.sendMessage("𝐊𝐨𝐈 𝐋𝐚𝐚𝐓 𝐌𝐚𝐚𝐑 𝐊𝐚𝐑 𝐉𝐚𝐠𝐚𝐎 𝐆𝐫𝐨𝐮𝐏 𝐌𝐚𝐈 𝐇𝐢 𝐒𝐨 𝐆𝐚𝐘𝐚 🤨", threadID);
    };
 
   if ((event.body.toLowerCase() == "🥵") || (event.body.toLowerCase() == "🥵🥵") || (event.body.toLowerCase() == "🥵🥵🥵") || (event.body.toLowerCase() == "🥵🥵🥵🥵")) {
@@ -56,7 +56,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "kamina") || (event.body.toLowerCase() == "kamina bot") || (event.body.toLowerCase() == "tamina") || (event.body.toLowerCase() == "kamine")) {
-     return api.sendMessage("𝐓𝐮 𝐃𝐨𝐔𝐛𝐋𝐞 𝐊𝐚𝐌𝐢𝐍𝐚𝐓𝐔 😒", threadID);
+     return api.sendMessage("𝐓𝐮 𝐃𝐨𝐮𝐁𝐥𝐞 𝐊𝐚𝐦𝐢𝐍𝐚𝐓𝐮 😒", threadID);
    };
 
   if ((event.body.toLowerCase() == "shat up") || (event.body.toLowerCase() == "shut up") || (event.body.toLowerCase() == "shut") || (event.body.toLowerCase() == "stup")) {
@@ -64,15 +64,15 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "🥰") || (event.body.toLowerCase() == "🥰🥰") || (event.body.toLowerCase() == "🥰🥰🥰") || (event.body.toLowerCase() == "🥰🥰🥰🥰")) {
-     return api.sendMessage("𝐇𝐚𝐀𝐲𝐄 𝐑𝐚𝐁𝐛𝐀 𝐈𝐭𝐍𝐧𝐀 𝐏𝐲𝐀𝐫 🙈🙈", threadID);
+     return api.sendMessage("𝐇𝐚𝐚𝐘𝐞 𝐑𝐚𝐁𝐛𝐚 𝐈𝐭𝐧𝐀 𝐏𝐲𝐚𝐑 🙈🙈", threadID);
    };
 
   if ((event.body.toLowerCase() == "ludo") || (event.body.toLowerCase() == "ludo link do") || (event.body.toLowerCase() == "ludo lwo") || (event.body.toLowerCase() == "link do")) {
-     return api.sendMessage("𝐌𝐮𝐉𝐡𝐄 𝐋𝐮𝐃𝐨 𝐊𝐡𝐀𝐥𝐧𝐀 𝐍𝐚𝐇𝐢 𝐀𝐚𝐓𝐚 🥺", threadID);
+     return api.sendMessage("𝐌𝐮𝐣𝐇𝐞 𝐋𝐮𝐃𝐨 𝐊𝐡𝐚𝐋𝐧𝐚 𝐍𝐚𝐇𝐢 𝐀𝐚𝐓𝐚 🥺", threadID);
    };
 
   if ((event.body.toLowerCase() == "kya hua") || (event.body.toLowerCase() == "kiya hua") || (event.body.toLowerCase() == "tya hua") || (event.body.toLowerCase() == "kiya hua")) {
-     return api.sendMessage("𝐊𝐮𝐂𝐡 𝐍𝐚𝐇𝐢 𝐁𝐚𝐁𝐮 😒", threadID);
+     return api.sendMessage("𝐊𝐮𝐜𝐇 𝐍𝐚𝐇𝐢 𝐁𝐚𝐁𝐮 😒", threadID);
    };
   
    mess = "{name}"
